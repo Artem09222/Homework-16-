@@ -1,5 +1,5 @@
 .menu {
-  border-left: 10px solid #e85c4b;
+  border-left: 13px solid #e85c4b;
   width: 250px;
 }
 
@@ -10,7 +10,7 @@
   width: 250px;
   padding-top: 30px;
   color: #e85c4b;
-  padding: 13px;
+  padding: 20px;
 }
 
 .menu-button {
@@ -19,7 +19,7 @@
   background-color: #e85c4b;
   width: 250px;
   color: #ffffff;
-  padding: 13px;
+  padding: 20px;
 }
 
 .title {
