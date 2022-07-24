@@ -1,0 +1,27 @@
+.menu {
+  border-left: 10px solid #e85c4b;
+  width: 250px;
+}
+
+.menu-top {
+  display: block;
+  text-decoration: none;
+  background-color: lightgrey;
+  width: 250px;
+  padding-top: 30px;
+  color: #e85c4b;
+  padding: 13px;
+}
+
+.menu-button {
+  display: block;
+  text-decoration: none;
+  background-color: #e85c4b;
+  width: 250px;
+  color: #ffffff;
+  padding: 13px;
+}
+
+.title {
+  list-style: none;
+}
